@@ -1,6 +1,6 @@
-🌐 HairLux LTD — Network Infrastructure Design
+**🌐 HairLux LTD — Network Infrastructure Design**
 
-⚠️ Academic / Simulated Project
+**⚠️ Academic / Simulated Project**
 
 HairLux LTD is a fictional company and the business scenario presented in this project is entirely simulated for academic purposes. No real client or production network was involved.
 
@@ -8,7 +8,7 @@ The project was created to demonstrate how I would analyse business requirements
 
 ⸻
 
-🎯 Project Overview
+**🎯 Project Overview**
 
 This project presents a fictional business networking scenario in which HairLux LTD is expanding across London and Manchester and requires a reliable network infrastructure for its simulated workforce.
 
@@ -28,7 +28,7 @@ The entire network was designed, configured and tested in Cisco Packet Tracer as
 
 ⸻
 
-🎓 Project Purpose
+**🎓 Project Purpose**
 
 The purpose of the project was to demonstrate practical networking skills in a controlled academic environment, including:
 

@@ -32,6 +32,26 @@ The entire network was designed, configured and tested in Cisco Packet Tracer as
 
 ⸻
 
+**📁 Network Files** 
+
+The repository includes the following project deliverables:
+
+Network Simulation (.pkt) — The network topology and device configurations. Open this file in Cisco Packet Tracer to explore the simulated network.
+
+Technical Report (.pdf) — The full project report, including the network design, configuration process, testing evidence, and evaluation.
+
+**How to Open the Simulation**
+
+Download the .pkt file from this repository.
+
+Open Cisco Packet Tracer.
+
+Select File → Open and choose the downloaded file.
+
+Explore the topology, inspect device configurations, and test connectivity.
+
+⸻
+
 **🎓 Project Purpose**
 
 The purpose of the project was to demonstrate practical networking skills in a controlled academic environment, including:

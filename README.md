@@ -1,8 +1,12 @@
 **🌐 HairLux LTD — Network Infrastructure Design**
 
-**⚠️ Academic / Simulated Project**
 
-HairLux LTD is a fictional company and the business scenario presented in this project is entirely simulated for academic purposes. No real client or production network was involved.
+<img width="2290" height="1345" alt="image" src="https://github.com/user-attachments/assets/fdd0f9e0-e0e7-447f-8508-ba34000520d8" />
+
+
+**⚠️ Simulated Project**
+
+HairLux LTD is a fictional company and the business scenario presented in this project is entirely simulated for testing purposes. No real client or production network was involved.
 
 The project was created to demonstrate how I would analyse business requirements, design a network infrastructure, configure network devices and validate the resulting solution using Cisco Packet Tracer.
 
